@@ -1,10 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Nov 19 11:51:17 2018
 
-@author: yasir
-"""
 import os
 cwd = os.getcwd()
 
